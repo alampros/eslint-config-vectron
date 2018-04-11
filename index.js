@@ -65,6 +65,7 @@ module.exports = {
     'no-unused-vars':                          ['error', { args: 'after-used', argsIgnorePattern: '^_' }],
     'prefer-template':                         0,
     quotes:                                    ['error', 'single'],
+    'react/jsx-filename-extension':            [1, { extensions: ['.js', '.jsx'] }],
     'react/forbid-prop-types':                 0,
     'react/no-multi-comp':                     0,
     'react/no-unused-prop-types':              0,
