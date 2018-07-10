@@ -70,6 +70,7 @@ module.exports = {
     'prefer-template':                         0,
     quotes:                                    ['error', 'single'],
     'react/jsx-filename-extension':            [1, { extensions: ['.js', '.jsx'] }],
+    'react/jsx-one-expression-per-line':       0,
     'react/forbid-prop-types':                 0,
     'react/no-multi-comp':                     0,
     'react/no-unused-prop-types':              0,
