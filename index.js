@@ -52,6 +52,10 @@ module.exports = {
     'jsx-a11y/label-has-for':                  0,
     'jsx-a11y/no-static-element-interactions': 0,
     'jsx-a11y/media-has-caption':              0,
+    'jsx-a11y/anchor-is-valid':                ['error', {
+      components: ['Link'],
+      specialLink: ['to']
+    }],
     'key-spacing':                             ['error', { mode: 'minimum' }],
     'linebreak-style':                         ['error', 'unix'],
     'max-len':                                 ['warn', { code: 140 }],
