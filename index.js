@@ -17,13 +17,6 @@ module.exports = {
     'import',
     'sorting',
   ],
-  globals: {
-    React: true,
-    classNames: true,
-    Modernizr: true,
-    TestUtils: true,
-    PropTypes: true,
-  },
   rules: {
     'arrow-parens':           0,
     'arrow-body-style':       0,
