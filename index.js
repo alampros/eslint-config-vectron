@@ -59,6 +59,7 @@ module.exports = {
     'no-plusplus':                             0,
     'no-underscore-dangle':                    0,
     'no-unused-vars':                          ['error', { args: 'after-used', argsIgnorePattern: '^_' }],
+    'no-use-before-define':                    0,
     'prefer-template':                         0,
     quotes:                                    ['error', 'single'],
     'react/jsx-filename-extension':            [1, { extensions: ['.js', '.jsx'] }],
