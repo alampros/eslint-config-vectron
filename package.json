@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vectron",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Eslint config for my react projects",
   "main": "index.js",
   "author": "Aaron Lampros <alampros@gmail.com>",
