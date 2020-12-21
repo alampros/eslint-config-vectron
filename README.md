@@ -1,14 +1,7 @@
 # eslint-config-vectron
-eslint base config for React projects
+eslint base config for my React projects
 
-# Install Peer Deps
-
-```sh
-(
-  export PKG=eslint-config-vectron;
-  npm info "$PKG@latest" peerDependencies --json | command sed 's/[\{\},]//g ; s/: /@/g' | xargs yarn add -D "$PKG@latest"
-)
-```
+[By Vectron's kindly claw](https://www.youtube.com/watch?v=icTrzUuWlHI), your projects will be uniform in style.
 
 # Usage
 

@@ -1,3 +1,3 @@
-module.exports = {
-  extends: './index.js'
-}
+const config = require('.')
+
+module.exports = config
