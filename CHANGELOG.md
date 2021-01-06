@@ -1,3 +1,10 @@
+### [2.2.2](https://github.com/alampros/eslint-config-vectron/compare/v2.2.1...v2.2.2) (2021-01-06)
+
+
+### Bug Fixes
+
+* respecify indent rules ([407b83d](https://github.com/alampros/eslint-config-vectron/commit/407b83de11402094a39f5cbbff8523237d94d583))
+
 ### [2.2.1](https://github.com/alampros/eslint-config-vectron/compare/v2.2.0...v2.2.1) (2021-01-06)
 
 
