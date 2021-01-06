@@ -47,6 +47,8 @@ module.exports = {
       files: ['**/*.tsx'],
       rules: {
         '@typescript-eslint/no-use-before-define': 'off',
+        indent: 'off',
+        '@typescript-eslint/indent': ['error'],
       },
     },
   ],
