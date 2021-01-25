@@ -1,3 +1,14 @@
+## [3.0.0](https://github.com/alampros/eslint-config-vectron/compare/v2.2.2...v3.0.0) (2021-01-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** bump eslint-plugin-simple-import-sort to v7
+
+### Bug Fixes
+
+* **deps:** upgrade deps ([b401c68](https://github.com/alampros/eslint-config-vectron/commit/b401c68c2d6e943449b45284c19715e01bc0bab7))
+
 ### [2.2.2](https://github.com/alampros/eslint-config-vectron/compare/v2.2.1...v2.2.2) (2021-01-06)
 
 
