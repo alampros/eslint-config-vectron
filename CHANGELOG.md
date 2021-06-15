@@ -1,3 +1,16 @@
+## [3.1.0](https://github.com/alampros/eslint-config-vectron/compare/v3.0.1...v3.1.0) (2021-06-15)
+
+
+### Features
+
+* **build:** add release config for next branch ([44d3736](https://github.com/alampros/eslint-config-vectron/commit/44d3736ac49e20500bf330d0b4bc820f394824ab))
+
+
+### Bug Fixes
+
+* **build:** use node v14 ([452ad63](https://github.com/alampros/eslint-config-vectron/commit/452ad63f930fd675aaa1d32589173369e55d44c7))
+* update deps ([fd94c1e](https://github.com/alampros/eslint-config-vectron/commit/fd94c1efc4195c557fee08b22dcb6c5d8307b00d))
+
 ### [3.0.1](https://github.com/alampros/eslint-config-vectron/compare/v3.0.0...v3.0.1) (2021-06-15)
 
 
