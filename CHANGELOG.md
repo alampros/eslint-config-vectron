@@ -1,3 +1,10 @@
+### [3.0.1](https://github.com/alampros/eslint-config-vectron/compare/v3.0.0...v3.0.1) (2021-06-15)
+
+
+### Bug Fixes
+
+* disable js indent for ts files ([34fa205](https://github.com/alampros/eslint-config-vectron/commit/34fa2057f414e1e5f4685bc47d522b8408929f8f)), closes [#8](https://github.com/alampros/eslint-config-vectron/issues/8)
+
 ## [3.0.0](https://github.com/alampros/eslint-config-vectron/compare/v2.2.2...v3.0.0) (2021-01-25)
 
 
