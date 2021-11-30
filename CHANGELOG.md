@@ -1,3 +1,12 @@
+## [4.0.0-beta.1](https://github.com/alampros/eslint-config-vectron/compare/v3.1.0-beta.2...v4.0.0-beta.1) (2021-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Now requires eslint@8
+
+* update deps ([645ccd0](https://github.com/alampros/eslint-config-vectron/commit/645ccd0753c91c5248b7bd42ceee1f3f08b80f59))
+
 ### [3.0.1](https://github.com/alampros/eslint-config-vectron/compare/v3.0.0...v3.0.1) (2021-06-15)
 
 
